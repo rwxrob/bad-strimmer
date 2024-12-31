@@ -24,6 +24,8 @@
 
 _Lessons learned livestream fails twitch youtube facebook_
 
+include::copyright.adoc[]
+
 = Lessons learned
 
 include::be-yourself.adoc[]
