@@ -1,0 +1,43 @@
+[separator=::]
+= Bad Stimmer
+:author: Robert S. Muhlestein (rwxrob)
+:creator: {author}
+:copyright: 2024 {author}
+:email: rob@rwx.gg
+:revnumber: v0.0.1
+:revdate: {date}
+:revremark: Under development
+:doctype: book
+:leveloffset: +1
+:front-cover-image: image:cover.jpeg[width=1024,height=1024]
+:sectnums!:
+:sectlinks:
+:toc: left
+:toclevels: 2
+:toc-title: Table of Contents
+:description: Lessons learned livestream fails twitch youtube facebook
+:icons: font
+:xrefstyle: short
+:source-highlighter: pygments
+:pygments-style: vs
+:pygments-linenums-mode: table
+
+_Lessons learned livestream fails twitch youtube facebook_
+
+= Lessons learned
+
+include::be-yourself.adoc[]
+
+include::titles.adoc[]
+
+include::comments.adoc[]
+
+include::do-it-now.adoc[]
+
+include::4th-wall.adoc[]
+
+include::music.adoc[]
+
+include::silence-trolls.adoc[]
+
+include::small-streamers.adoc[]
