@@ -51,9 +51,11 @@ I ended up arriving at a few different content modes as the title so that people
 [cols="^.^1,4"]
 |===
 | 🟥 LIVE 🟥 | Doing something live and interacting with the chat meaning I am usually on camera live and responding live to questions but not necessarily. This is the mode where I create recordings about specific topics for YouTube and don't always read the chat.
+| 🟥 COWORKING 🟥 | Doing actual work that can be streamed. Topic dictated by my coworking priorities. Occasional shop talk but not much.
 | 🟥 CHAT 🟥 | Specifically streaming to chat about whatever, always AMA in this mode. The chat _is_ the priority. I never plan on focusing on anything in this mode and allowing the topic to change based on what the chat ends up being about.
 | 🟥 SCREEN 🟥 | Just screen casting, sometimes with my face as a little bubble on the screen but usually not. Muted with no sound except occasional sounds from the desktop when watching a video or something. Some people call this "over the shoulder" mode. It's just a way to chat and get stuff done at the same time while others work on their own thing. People can listen to their own music and even other streamers without fear of missing anything in audio because there never is audio.
-| 🟥 IRL 🟥 | Anything IRL with my IRL rig or phone doing the work of streaming. This is almost always me on the bike or in the car driving around in POV mode with the camera.
+| 🟥 IRL 🟥 | Anything IRL with my IRL rig or phone doing the work of streaming. 
+| 🟥 BIKE 🟥 | IRL plus on the bike in POV mode.
 | 🟥 ZWIFT 🟥 | Highly specific because I cannot really talk much and am usually huffing and puffing, but sometimes people want to suffer along with me at the same time.
 | 🟥 YOGA 🟥 | No response to chat at all. Just an old guy doing Yoga live. I don't do this as much as I used to because it doesn't really benefit people that much but at least a couple have said it helped motivate them to get started so I might keep at it.
 |===
